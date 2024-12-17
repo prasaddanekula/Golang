@@ -1,1 +1,1 @@
-This Is about GIT learning 
+This file about Golang readme info
